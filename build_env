@@ -1,0 +1,5 @@
+#!/bin/bash
+rm -r ./venv
+virtualenv -p python3.6 ./venv
+source ./venv/bin/activate
+./venv/bin/pip install --requirement=./requirements.txt

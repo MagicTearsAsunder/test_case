@@ -1,0 +1,7 @@
+requests
+face_recognition
+python-telegram-bot
+psycopg2
+sqlalchemy
+ffmpeg
+soundfile
