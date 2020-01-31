@@ -1,4 +1,5 @@
 # test_case
 Telegram Bot
 
-Fill TODO's
+1. Fill TODO's
+2. Run ./build_env
